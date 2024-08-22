@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am Natalia
+Data Analysis student
+🌱 I’m currently learning python, SQL, BI instruments.
+📫 How to reach me: kashirtsevany@yandex.ru
 
 <!--
 **kashirtsevany/kashirtsevany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
